@@ -13,5 +13,5 @@
 <p align='left'>
 <a herf='https://www.linkedin.com/in/gaikawad-mahesh-132224224' target='_blank'><img align = 'center' height='30' width='40' src='./images/linked-in.svg' alt='LinkedIn'></a>
 <a herf='https://twitter.com/GaikawadMahesh' target='_blank'><img align = 'center' height='30' width='40' src='./images/twitter.svg' alt='Twitter'></a>
-<a herf='https://www.instagram.com/mahesh_gaikawade' target='_blank'><img align = 'center' height='30' width='40' src='.images/instagram.svg' alt='Instagram'></a>
+<a herf='https://www.instagram.com/mahesh_gaikawade' target='_blank'><img align = 'center' height='30' width='40' src='./images/instagram.svg' alt='Instagram'></a>
 <a herf='https://github.com/Gaikawade' target='_blank'><img align = 'center' height='30' width='40' src='./images/github.svg' alt='GitHub'></a>
