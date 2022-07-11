@@ -1,9 +1,8 @@
-### Hi there 👋
+[![MasterHead](https://www.fullstacktechnology.com/wp-content/uploads/2020/05/webdes1-1.png]
+### Hi there 👋, I'm Gaikawade Mahesh
+#A passionate backend developer from India
+<img align="right" alt="Coding" width="400" https://media2.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47r2z2exqk9qhkw3vgvkrtrm8920vyuhz8jrh25kma&rid=giphy.gif&ct=g>
 
-<!--
-**Gaikawade/Gaikawade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
--->
