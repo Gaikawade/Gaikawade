@@ -1,7 +1,9 @@
-[![MasterHead](https://www.fullstacktechnology.com/wp-content/uploads/2020/05/webdes1-1.png]
+![MasterHead](https://www.fullstacktechnology.com/wp-content/uploads/2020/05/webdes1-1.png)
 ### Hi there 👋, I'm Gaikawade Mahesh
-#A passionate backend developer from India
-<img align="right" alt="Coding" width="400" https://media2.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif?cid=ecf05e47r2z2exqk9qhkw3vgvkrtrm8920vyuhz8jrh25kma&rid=giphy.gif&ct=g>
+##### A passionate backend developer from India
+<!-- ![coading](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vee0cccot89x8d15r30hpwpmom7zrxqa7s1vrnsy&rid=giphy.gif&ct=g) -->
+
+<img align = 'right' alt='Coading' width = '300' src = 'https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vee0cccot89x8d15r30hpwpmom7zrxqa7s1vrnsy&rid=giphy.gif&ct=g'>
 
 
 - 🔭 I’m currently working on ...
