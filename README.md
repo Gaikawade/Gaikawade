@@ -2,7 +2,8 @@
 <img align="center" alt="Master" height='95%' src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 <h1 align="center"> Hi there 👋, I'm Gaikawade Mahesh </h1>
 <h5 align="center"> A passionate backend developer from India </h5>
-<img align = 'right' alt='Coading' width = '300' src = 'https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vee0cccot89x8d15r30hpwpmom7zrxqa7s1vrnsy&rid=giphy.gif&ct=g'>
+<!-- <img align = 'right' alt='Coading' width = '300' src = 'https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vee0cccot89x8d15r30hpwpmom7zrxqa7s1vrnsy&rid=giphy.gif&ct=g'> -->
+<img align = 'right' alt='Coading' width = '300' src = 'https://media3.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47akvrxd0773rz62x956v3tj53hmgfzv1j0bppais6&rid=giphy.gif&ct=g'>
 
 - 🔭 I’m currently working on **Backend Projects in Function Up**
 - 🌱 I’m currently learning **MERN Stack**
