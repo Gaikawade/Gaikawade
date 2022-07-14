@@ -13,17 +13,11 @@
 
 <h3 align = 'left'>Languages and Tools:</h3>
 <p align = 'left'>
-    <img align = 'center' height = '40' width = '40' src = './icons/html5/html5-original-wordmark.svg' alt = 'HTML5'>
     <img align = 'center' height = '40' width = '40' src = './icons/html5-original.svg' alt = 'HTML5'>
-    <img align = 'center' height = '40' width = '40' src = './icons/css3/css3-original-wordmark.svg' alt = 'CSS3'>
-    <img align = 'center' height = '40' width = '40' src = './icons/css3-original.svg' alt = 'CSS3'>    
-    <img align = 'center' height = '40' width = '40' src = './icons/javascript/javascript-original.svg' alt = 'JavaScript'>
-    <img align = 'center' height = '40' width = '40' src = './icons/nodejs/nodejs-original-wordmark.svg' alt = 'Nodejs'>
+    <img align = 'center' height = '40' width = '40' src = './icons/css3-original.svg' alt = 'CSS3'>
+    <img align = 'center' height = '40' width = '40' src = './icons/javascript-original.svg' alt = 'JavaScript'>
     <img align = 'center' height = '40' width = '40' src = './icons/nodejs-original.svg' alt = 'Nodejs'>
-    <img align = 'center' height = '40' width = '40' src = './icons/mongodb/mongodb-original-wordmark.svg' alt = 'MongoDB'>
-    <img align = 'center' height = '40' width = '40' src = './icons/mongodb-original.svg' alt = 'MongoDB'>
     <img align = 'center' height = '40' width = '40' src = './icons/mongodb.svg' alt = 'MongoDB'>
-    <img align = 'center' height = '40' width = '40' src = './icons/java/java-original-wordmark.svg' alt = 'Java'>
     <img align = 'center' height = '40' width = '40' src = './icons/java-original.svg' alt = 'Java'>
     <img align = 'center' height = '40' width = '40' src = './icons/postman.svg' alt = 'Postman'>
 </p>
