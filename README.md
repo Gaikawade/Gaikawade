@@ -31,4 +31,8 @@
     <a herf='https://github.com/Gaikawade' target='_blank'><img align = 'center' height='30' width='40' src='./socialMedia/github.svg' alt='GitHub'></a>
 </p>
 
-<p><img align="left" src='https://github-readme-stats.vercel.app/api/top-langs?username=Gaikawade&show_icons=true&locale=en&layout=compact' alt=''Gaikawade /></p>
+<p>
+    <img align="left" src='https://github-readme-stats.vercel.app/api/top-langs?username=Gaikawade&show_icons=true&locale=en&layout=compact' alt=''Gaikawade />
+    <img align="left" src='https://github-readme-streak-stats.herokuapp.com/?user=Gaikawade&' alt='Contributions'/>
+    <img align="left" src='https://github-readme-stats.vercel.app/api?username=Gaikawade' alt='Contributions'/>
+</p>
