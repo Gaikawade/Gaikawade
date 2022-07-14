@@ -1,7 +1,7 @@
 <!-- <img align="center" alt="Master" height='95%' src="https://www.fullstacktechnology.com/wp-content/uploads/2020/05/webdes1-1.png"> -->
 <img align="center" alt="Header" height='95%' src="https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">
 <h1 align="center"> Hi there 👋, I'm Gaikawade Mahesh </h1>
-<h3 align="center"> A enthusiastic backend developer from India </h3>
+<h3 align="center"> A enthusiastic backend developer from India 💻</h3>
 <!-- <img align = 'right' alt='Coading' width = '300' src = 'https://media 0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vee0cccot89x8d15r30hpwpmom7zrxqa7s1vrnsy&rid=giphy.gif&ct=g'> -->
 <img align = 'right' alt='Coading' width = '300' src = 'https://media3.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47akvrxd0773rz62x956v3tj53hmgfzv1j0bppais6&rid=giphy.gif&ct=g'>
 
@@ -40,11 +40,11 @@
 </p>
 
 <p>
-    <img align="left" src='https://github-readme-stats.vercel.app/api/top-langs?username=Gaikawade&show_icons=true&locale=en&layout=compact' alt=''Gaikawade />
-</p>
+    <img align="left" src='https://github-readme-stats.vercel.app/api/top-langs?username=Gaikawade&show_icons=true&locale=en&layout=compact' alt=''Gaikawade /></br>
+</p>&nbsp
 <p>
-    <img align="left" src='https://github-readme-streak-stats.herokuapp.com/?user=Gaikawade&' alt='Contributions'/>
-</p>
+    <img align="left" src='https://github-readme-streak-stats.herokuapp.com/?user=Gaikawade&' alt='Contributions'/></br>
+</p>&nbsp
 <p>
-    <img align="left" src='https://github-readme-stats.vercel.app/api?username=Gaikawade' alt='Streak'/>
+    <img align="left" src='https://github-readme-stats.vercel.app/api?username=Gaikawade' alt='Streak'/></br>
 </p>
