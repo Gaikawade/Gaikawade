@@ -13,12 +13,12 @@
 
 <h3 align = 'left'>Languages and Tools:</h3>
 <p align = 'left'>
-    <img align = 'center' height = '40' width = '40' src = './icons/html5-original.svg' alt = 'HTML5'>
-    <img align = 'center' height = '40' width = '40' src = './icons/css3-original.svg' alt = 'CSS3'>
-    <img align = 'center' height = '40' width = '40' src = './icons/javascript-original.svg' alt = 'JavaScript'>
-    <img align = 'center' height = '40' width = '40' src = './icons/nodejs-original.svg' alt = 'Nodejs'>
+    <img align = 'center' height = '40' width = '40' src = './icons/html5.svg' alt = 'HTML5'>
+    <img align = 'center' height = '40' width = '40' src = './icons/css3.svg' alt = 'CSS3'>
+    <img align = 'center' height = '40' width = '40' src = './icons/javascript.svg' alt = 'JavaScript'>
+    <img align = 'center' height = '40' width = '40' src = './icons/nodejs.svg' alt = 'Nodejs'>
     <img align = 'center' height = '40' width = '40' src = './icons/mongodb.svg' alt = 'MongoDB'>
-    <img align = 'center' height = '40' width = '40' src = './icons/java-original.svg' alt = 'Java'>
+    <img align = 'center' height = '40' width = '40' src = './icons/java.svg' alt = 'Java'>
     <img align = 'center' height = '40' width = '40' src = './icons/postman.svg' alt = 'Postman'>
 </p>
 
