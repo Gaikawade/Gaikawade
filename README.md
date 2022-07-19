@@ -39,10 +39,10 @@
     </a>
 </p>
 
-<p>
+<!--<p>
     <img align="left" src='https://github-readme-stats.vercel.app/api/top-langs?username=Gaikawade&show_icons=true&locale=en&layout=compact' alt=''Gaikawade />
-</p><br />
-<!-- <p>
+</p><
+<p>
     <img align="left" src='https://github-readme-streak-stats.herokuapp.com/?user=Gaikawade&' alt='Contributions'/><br/>
 </p> -->
 <p>
