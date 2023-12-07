@@ -5,7 +5,7 @@
 <!-- <img align = 'right' alt='Coading' width = '300' src = 'https://media 0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47vee0cccot89x8d15r30hpwpmom7zrxqa7s1vrnsy&rid=giphy.gif&ct=g'> -->
 <img align = 'right' alt='Coading' width = '300' src = 'https://media3.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e47akvrxd0773rz62x956v3tj53hmgfzv1j0bppais6&rid=giphy.gif&ct=g'>
 
-- 🔭 I’m currently working on **Backend Projects in Function Up**
+- 🔭 I’m currently working on *AWS in Raice Tech Soft**
 - 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **JavaScript, Node.JS, MongoDB**
 - 📫 How to reach me: **gmhs6199@gmail.com**
