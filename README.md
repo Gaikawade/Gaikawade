@@ -18,7 +18,9 @@
     <img align = 'center' height = '40' width = '40' src = './icons/javascript.svg' alt = 'JavaScript'>
     <img align = 'center' height = '40' width = '40' src = './icons/nodejs.svg' alt = 'Nodejs'>
     <img align = 'center' height = '40' width = '40' src = './icons/mongodb.svg' alt = 'MongoDB'>
-    <img align = 'center' height = '40' width = '40' src = './icons/java.svg' alt = 'Java'>
+    <img align = 'center' height = '40' width = '40' src = './icons/python.svg' alt = 'Python'>
+    <img align = 'center' height = '40' width = '40' src = './icons/flask.svg' alt = 'Flask'>
+    <img align = 'center' height = '40' width = '40' src = './icons/aws.svg' alt = 'AWS'>
     <img align = 'center' height = '40' width = '40' src = './icons/postman.svg' alt = 'Postman'>
 </p>
 
